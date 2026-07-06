@@ -1,56 +1,19 @@
-\# 📚 Projetos DIO
+# 📚 Projetos DIO
 
+Repositório com projetos desenvolvidos durante cursos da plataforma [DIO](https://www.dio.me/).
 
+## 📁 Projetos
 
-Repositório com projetos desenvolvidos durante cursos da plataforma \[DIO](https://www.dio.me/).
+| Projeto | Descrição | Tecnologia |
+|---|---|---|
+| [html-basico](./html-basico/) | Primeiro projeto HTML | HTML |
+| [clinica-medica](./clinica-medica/) | Site de clínica médica com múltiplas páginas | HTML |
+| [godwiki-html](./godwiki-html/) | Wiki do universo God of War | HTML |
 
+## 🛠️ Tecnologias
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-\## 📁 Estrutura
+## 📚 Curso
 
-
-
-\### 🌐 html-basico
-
-Primeiro projeto HTML desenvolvido durante o curso \*\*HTML Web Developer\*\*.
-
-Exploração dos conceitos básicos de estruturação de páginas web.
-
-
-
-\- \*\*Tecnologia:\*\* HTML
-
-\- \*\*Arquivo:\*\* `html-basico/projeto.html`
-
-
-
-\---
-
-
-
-\### 🏥 clinica-medica
-
-Site de clínica médica desenvolvido durante o curso \*\*HTML Web Developer\*\*.
-
-Projeto com múltiplas páginas simulando um site real de clínica.
-
-
-
-\- \*\*Tecnologia:\*\* HTML
-
-\- \*\*Páginas:\*\* index, sobre, contato, horários
-
-\- \*\*Pasta:\*\* `clinica-medica/projeto2.html/`
-
-
-
-\---
-
-
-
-\## 🛠️ Tecnologias
-
-
-
-!\[HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
+HTML Web Developer — DIO
